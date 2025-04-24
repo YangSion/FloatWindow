@@ -1,8 +1,10 @@
 # FloatWindow 安卓任意界面悬浮窗
 [![](https://jitpack.io/v/yhaolpz/FloatWindow.svg)](https://jitpack.io/#yhaolpz/FloatWindow)
 
-
 ![悬浮按钮图](https://raw.githubusercontent.com/yhaolpz/FixedFloatWindow/master/slide.gif)
+
+# 原项目地址：[https://github.com/yhaolpz/FloatWindow](https://github.com/yhaolpz/FloatWindow)
+**🔴注：由于原项目未适配到安卓12及以上，此项目只是在原来的基础上做了适配。**
 
 特性：
 ===
@@ -26,6 +28,7 @@
 
 集成：
 ===
+**🔴注：如若使用，请直接拷贝floatwindow文件夹中代码到你的项目中，这里的集成方式不可用。**
 
 第 1 步、在工程的 build.gradle 中添加：
 
